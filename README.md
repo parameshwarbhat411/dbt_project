@@ -1,4 +1,4 @@
-##This project contains DBT files used for Grand Prix Insights Project, the DBT Cloud job will use the models defined in this project to update all the staging, fact/Dimension tables.
+## This project contains DBT files used for Grand Prix Insights Project, the DBT Cloud job will use the models defined in this project to update all the staging, fact/Dimension tables.
 
 
 
