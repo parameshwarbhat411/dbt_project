@@ -1,10 +1,5 @@
-Welcome to your new dbt project!
+##This project contains DBT files used for Grand Prix Insights Project, the DBT Cloud job will use the models defined in this project to update all the staging, fact/Dimension tables.
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
 
 
 ### Resources:
